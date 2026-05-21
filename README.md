@@ -1,8 +1,5 @@
 Olá, eu sou João Gabriel!
 
- Graduando em Ciência da Computação na UEPB.
- Atuo como Desenvolvedor Back-end no NUTES.
- Realidade Virtual, desenvolvendo experiências imersivas em Unity (C#) para o Meta Quest 3.
- Já brinquei bastante com Java e seus padrões (como os de GRASP)
- Também exploro o mundo de Python, bancos de dados e APIs.
+ GDesenvolvedor Full Stack e graduando em Ciências da Computação, com experiência em aplicações web, mobile e sistemas interativos. Atua com C#, Node.js, PostgreSQL, Python e Unity, desenvolvendo APIs REST, integração backend/frontend, WebSocket em tempo real e aplicações multiplataforma.
 
+Possui interesse em arquitetura de software, programação orientada a objetos, QA, realidade virtual, gamificação e integração de sistemas. Experiência com versionamento utilizando GitHub, modelagem de banco de dados e desenvolvimento de soluções escaláveis para diferentes plataformas.
